@@ -1,0 +1,13 @@
+public class Truth
+{
+  public static void main (String[]args)
+  {
+    System.out.println ("calculating calculation");
+    System.out.println ("calculating whether cool epic guy is bad...");
+    System.out.println ("[system]: cool epic guy is bad");
+    String giles = "gillies is bad";
+    final String channel = "cool epic guy bad";
+    boolean is = channel == "cool epic guy bad";
+      System.out.println (is);
+  }
+}
