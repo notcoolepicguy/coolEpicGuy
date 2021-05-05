@@ -8,6 +8,6 @@ public class Truth
     String giles = "gillies is bad";
     final String channel = "cool epic guy bad";
     boolean is = channel == "cool epic guy bad";
-      System.out.println (is);
+    System.out.println (is);
   }
 }
